@@ -10,4 +10,6 @@ Javascript Calculator
   <li>Pick your favorite browser</li>
 </ul>
 
+Check my video how to create from 0 to hero code : <a href="https://youtu.be/kU727j16-wY">Calculator Javascript on Youtube</a>
+
 Faddi Susanto&copy;2020
